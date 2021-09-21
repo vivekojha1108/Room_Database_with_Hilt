@@ -2,4 +2,5 @@
 Simple 
 
 This projext has simple Room database with hilt
+
 @INSERT only added.
